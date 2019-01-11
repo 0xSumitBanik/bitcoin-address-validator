@@ -1,0 +1,22 @@
+.custom-background{background: #8080801c!important;}
+#customButton
+{
+    background: #212121;
+    font-variant: normal;
+    color: #ffffff;
+}
+.formStyle
+{
+    padding: 14%;
+}
+#custom-card-panel
+{
+    border: none;
+    margin-top: 8px;
+    padding: 6%!important;
+}
+#valid-or-not
+{
+    text-decoration-style: dotted;
+    color: #000000;
+}
